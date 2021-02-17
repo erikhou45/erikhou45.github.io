@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: MM
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: "erikhou45"
 minimal_mistakes_skin: "mint"
@@ -70,7 +70,7 @@ author:
 #       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/{{ site.github_username }}"
+      url: "https://github.com/erikhou45"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
