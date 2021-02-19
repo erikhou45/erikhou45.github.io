@@ -4,11 +4,10 @@ date: 2020-08-20T15:34:30-04:00
 categories:
   - UC Berkeley Academic Project
 tags:
-  - CNN
   - computer vision
   - mobile development
   - deep learning
-  - -Docker
+  - Docker
 ---
 
 Applied transfer-learning to facial image encoding model on edge device to enhance performance and user privacy.
