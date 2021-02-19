@@ -35,6 +35,7 @@ The resulting model achieved over 99% accuracy on recognizing user identities ev
 * sckit-learn
 * Docker
 * Nvidia TX2
+* Linux
 
 ## More Information
 More information can be found at the following links:
