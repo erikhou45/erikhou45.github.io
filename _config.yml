@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Data Science &\nEngineering"
   avatar : "/assets/images/headshot.jpg"
-  bio    : ""
+  bio    : "Data professional passionate about turning complex data into useful products and insights."
   links:
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
