@@ -20,7 +20,7 @@ We used FaceNet, a neural network developed in 2015 by reserachers at Google for
 
 ## Outcome
 
-The resulting model achieved over 99% accuracy on recognizing user identities even with images with high degrees of light or shadow.
+The resulting model achieved over 99% accuracy on recognizing user identities even for images with high degrees of light or shadow.
 
 ## Techniques
 * supervised learning (classification) with SVM
