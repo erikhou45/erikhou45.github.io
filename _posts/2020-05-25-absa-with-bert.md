@@ -12,10 +12,7 @@ tags:
 Evaluated model performance when transferring learning across different languages in sentiment analysis tasks and recommended effective approaches.
 
 ## Description
-
-LipSpeak is focused on helping people with voice disorders, a condition affecting 7.5 million patients in the US alone. Powered by a novel visual keyword spotting neural network architecture (developed by reseachers[1] at University of Oxford), our smartphone app MVP converts user’s lip movements to synthesized speech and is targeted for people who lost their voice due to illness or surgery but are still capable of articulative lip movements.
-
-We intend to use our MVP to contribute to peer and industry learning about how silent speech voicing technologies can be applied to improve the quality of life for people suffering from voice impairments.
+We applied multilingual BERT (mBERT) on the document-level laptop review dataset from SemEval-2016 for aspect-based sentiment analysis task and tested the model’s ability to perform zero-shot crosslingual learning transfer from English to Chinese. Results suggest multilingual BERT’s ability to transfer its learning of complex text relationship at document-level from English to Chinese. We also demonstrated and discussed about the challenges from imbalanced data distribution for aspect-based sentiment analysis with a large number of aspect categories.
 
 ## Techniques
 * NLP
