@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Data Science & Engineering"
+  name   : "Data Science &\nEngineering"
   avatar : "/assets/images/headshot.jpg"
   bio    : ""
   links:
