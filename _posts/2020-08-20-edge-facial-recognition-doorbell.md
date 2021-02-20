@@ -1,5 +1,5 @@
 ---
-title: "Edge Facial Recognition Doorbell"
+title: "Building a Facial Recognition Doorbell at the Edge"
 date: 2020-08-20T15:34:30-04:00
 categories:
   - UC Berkeley Academic Project
