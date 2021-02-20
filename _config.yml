@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Data Science & Engineering"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "I’m a highly analytical and intellectually curious data professional with skills in machine learning and data engineering. I’m a quick learner excited by turning complex data into useful products and insights."
+  bio    : ""
   links:
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
