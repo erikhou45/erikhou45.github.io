@@ -9,10 +9,10 @@ tags:
   - Docker
   - Factorization Machine
 ---
-In this project we attempted the Display Advertising Challenge in 2014 which is to train a model with 10GB of web traffic data to predict click-through rate (CTR, percent of ads clicked).
+In this project we attempted the [Kaggle Display Advertising Challenge in 2014](https://www.kaggle.com/c/criteo-display-ad-challenge) which is to train a model with 10GB of web traffic data to predict click-through rate (CTR, percent of ads clicked).
 
 ## Description
-Inspired by the winning team's approach, we explained the concept of field-aware fectorization machine (FFM) and sought to build our own homegrown FFM model with PySpark's RDD API. The primary goal is to beat a baseline model defined by measuring the overall click-through rate. A secondary goal is to match the model performance of competition-winning models.
+Inspired by the [winning team](https://www.kaggle.com/c/criteo-display-ad-challenge/discussion/10555)'s approach, we explained the concept of field-aware fectorization machine (FFM) and sought to build our own homegrown FFM model with PySpark's RDD API. The primary goal is to beat a baseline model defined by measuring the overall click-through rate. A secondary goal is to match the model performance of competition-winning models.
 
 ## Techniques
 * factorization machine
