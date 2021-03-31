@@ -24,7 +24,7 @@ The resulting model achieved over 99% accuracy on recognizing user identities ev
 
 ## Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P8rUkh5xXuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MZ8q3zG2f8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Techniques
 * supervised learning (classification) with SVM
